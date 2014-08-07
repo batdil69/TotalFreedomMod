@@ -1,4 +1,7 @@
 # Contributing to TotalFreedomMod #
+
+Remenber, BatdilFreedom is not a plugin made by myself (Bikkiester/Batdil69)! It is made by the TF crew. I just modified some things to use it at the BatdilFreedom Server.
+
 TotalFreedomMod is a CraftBukkit server plugin designed primarily to support the [Official TotalFreedom Minecraft Server](http://totalfreedom.me/). However, it can be used in a variety of other configurations with minimal fuss.
 
 For those who wish to contribute, we encourage you to fork the repository and submit pull requests. Below you will find guidelines that will explain this process in further detail.
