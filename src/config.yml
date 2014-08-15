@@ -6,7 +6,7 @@ server:
   # You should change this to your server's name
   name: BatdilFreedom
   # The address your server is located at
-  address: fr2.gratisserver.nu:41675
+  address: BatdilFreedom.g-s.nu
 
   # Shown at the server list
   motd: BatdilFreedom - Free OP! &8- Minecraft %mcversion%
@@ -17,6 +17,8 @@ server:
   # All players who show up as owner
   owners:
     - Bikkiester
+    - Batdil69
+    - Nikolaous
 
   # URL players should appeal for bans at
   ban_url: Just wait a day. The banlist should be clean then.
@@ -142,7 +144,7 @@ tossmob_enabled: false
 
 moblimiter:
   enabled: true
-  max: 50
+  max: 10
   disable:
     dragon: true
     ghast: true
@@ -171,7 +173,7 @@ console_is_senior: true
 # Host Sender Names - Names that indicate automated services or host-based consoles you want to block from using some commands.
 # Make sure these are all lower-case.
 host_sender_names:
-  - rcon
+  - batdilfreedom_console
   - remotebukkit
 
 # Players who cannot be banned by username
@@ -195,7 +197,7 @@ unbannable_usernames:
   - ethoslab
   - skydoesminecraft
   - skythekidrs
-  - tobyturner
+  - batdil69
   - xxslyfoxhoundxx
   - paulsoaresjr
   - sips_
@@ -205,7 +207,7 @@ unbannable_usernames:
   - dinnerbone
   - grumm
   - grum
-  - evilseph
+  - nikolaous
   - cavemanfilms
   - herobrine
   - whiteboy7thst
