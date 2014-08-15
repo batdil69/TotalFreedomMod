@@ -1,8 +1,8 @@
-name: BatdilFreedom Mod
+name: BatdilFreedomMod
 main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
-version: 4.3
+version: 1.69.BETA
 description: Plugin for the BatdilFreedom server.
 softdepend: [BukkitTelnet, WorldEdit, Essentials]
-authors: [Bikkiester]
+authors: [Bikkiester, Madgeek1450, DarthSalamon]
 
 # plugin.yml is no longer used to define commands.
