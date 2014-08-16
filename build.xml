@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="BatdilFreedomMod" default="default" basedir=".">
-    <description>Builds, tests, and runs the project TotalFreedomMod.</description>
+    <description>Builds, tests, and runs the project BatdilFreedomModMod.</description>
     <import file="nbproject/build-impl.xml" />
 
     <target name="-pre-jar">
